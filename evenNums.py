@@ -3,4 +3,4 @@ def evenNums(ii):
         if(i%2 == 0):
             print(i)
 
-evenNums(10)
+#evenNums(10)
