@@ -1,9 +1,9 @@
 def function_comp(a,b):
     if (a>b):
         print(a,">",b)
-    if (a==b):
+    elif (a==b):
         print(a,"=",b)
-    if (a<b):
+    elif (a<b):
         print(a,"<",b)
 
 function_comp(1,2)
