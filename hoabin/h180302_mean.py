@@ -6,4 +6,4 @@ for i in N:
     k = k + 1
 
 A = s/k
-print(A)
+print("Average=", A)
