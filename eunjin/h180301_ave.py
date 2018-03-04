@@ -4,4 +4,11 @@ c=0
 for i in a:
     b = b+i
     c = c+1
-print(b/c)   
+print(b/c)  
+
+
+#code from junho
+b=0
+for i in a:
+    b = b+i
+print(b/len(a))
