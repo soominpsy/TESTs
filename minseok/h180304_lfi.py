@@ -8,14 +8,14 @@ def Mulf(a):
 def MtMf(a):
     k=1
     cc=0
-    Max=int(a[k-1])
+    Min=int(a[k-1])
     for k in range(len(a)):
-        if(Max>int(a[k])):
+        if(Min<int(a[k])):
             continue
         else:
-            Max=int(a[k])
+            Min=int(a[k])
             cc=k
-    print(Max)
+    print(Min)
     del a[cc]
     if(len(a)!=0):
         MtMf(a)
