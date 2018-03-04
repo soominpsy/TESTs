@@ -3,11 +3,11 @@ b=0
 c=0
 for i in a:
     b = b+i
-    c = c+1
+    c = c+1    # (j) there is useful command called "len", which returns length of the list.
 print(b/c)  
 
 
-#code from junho
+#from junho
 b=0
 for i in a:
     b = b+i
