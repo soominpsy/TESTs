@@ -1,3 +1,4 @@
+#-*-coding: UTF-8-*-
 # 첫번째 숙제 별 피라미드
 def pyramid(n): #n만큼 만듦
     k = "*" # k초기값
