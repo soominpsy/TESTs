@@ -1,3 +1,4 @@
+#-*-coding: UTF-8-*-
 #1
 def pyramid1(n):
     for i in range(n+1): 
