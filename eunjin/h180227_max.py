@@ -10,3 +10,6 @@ def max(a,b):
 max(8,2)
 max(3,5)
 max(7,7)
+
+# from junho
+
