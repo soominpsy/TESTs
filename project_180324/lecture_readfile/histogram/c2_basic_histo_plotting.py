@@ -2,7 +2,7 @@
 from matplotlib import pyplot as plt
 import numpy
 import sys,os
-sys.path.append("/Users/leejunho/Desktop/git/python3Env/group_study/project_pre/func/")
+#sys.path.append("/Users/leejunho/Desktop/git/python3Env/group_study/project_pre/func/")
 from c1_basic_statistic import *
 
 
