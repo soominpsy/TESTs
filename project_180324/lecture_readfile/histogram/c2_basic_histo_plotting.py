@@ -1,4 +1,4 @@
-#Author : JUNHO LEE
+#Author : JUNHO LEE, manggny
 from matplotlib import pyplot as plt
 import numpy
 import sys,os
