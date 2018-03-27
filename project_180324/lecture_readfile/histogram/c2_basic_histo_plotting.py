@@ -71,7 +71,7 @@ def Basic_histo(filename, Xaxis_Name=''):
 
 
 def main():
-    inputfile = "/Users/leejunho/Desktop/git/python3Env/group_study/TESTs/project_180324/data_txt/concrete_tree_cut_concrete_f_fineagg_hist.txt"
+#    inputfile = "/Users/leejunho/Desktop/git/python3Env/group_study/TESTs/project_180324/data_txt/concrete_tree_cut_concrete_f_fineagg_hist.txt"
 #    inputfile = "/Users/leejunho/Desktop/git/python3Env/group_study/TESTs/project_180324/data_txt/"
 #    inputfile = "/Users/leejunho/Desktop/git/python3Env/group_study/TESTs/project_180324/data_txt/"
 #    inputfile = "/Users/leejunho/Desktop/git/python3Env/group_study/TESTs/project_180324/data_txt/"
@@ -80,7 +80,7 @@ def main():
 #    inputfile = "/Users/leejunho/Desktop/git/python3Env/group_study/TESTs/project_180324/data_txt/root2_tree_cut_tree1_f_px_hist.txt"
 #    inputfile = "/Users/leejunho/Desktop/git/python3Env/group_study/TESTs/project_180324/data_txt/root2_tree_cut_tree2_f_pz_hist.txt"
 #    inputfile = "/Users/leejunho/Desktop/git/python3Env/group_study/TESTs/project_180324/data_txt/concrete_tree_cut_concrete_f_strength_hist.txt" 
-#    inputfile = "../root1_project.txt" 
+    inputfile = "../root1_project.txt" 
     Basic_histo(inputfile, ".X-axis.")
 
 
